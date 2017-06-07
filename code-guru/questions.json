@@ -1,0 +1,5 @@
+{
+  "question1" : "Welcome to code guru, about which algorithm or data structure would you like to know",
+  "question2" : "space or time complexity",
+  "question3" : "best, average or worst"
+}

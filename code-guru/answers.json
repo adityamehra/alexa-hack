@@ -1,0 +1,131 @@
+{
+  "quick sort" : {
+    "time" : {
+      "best" : "sigma of n log n",
+      "average" : "theta of n log n",
+      "worst" : "o of n square"
+    },
+    "space" : {
+      "worst" : "o of log n"
+    }
+   },
+   "merge sort"	: {
+     "time" : {
+       "best" : "sigma of n log n",
+       "average" : "theta of n log n",
+       "worst" : "o of n square"
+     },
+     "space" : {
+       "worst" : "o of log n"
+     }
+   },
+   "tim sort"	: {
+     "time" : {
+       "best" : "sigma of n log n",
+       "average" : "theta of n log n",
+       "worst" : "o of n square"
+     },
+     "space" : {
+       "worst" : "o of log n"
+     }
+    },
+   "heap sort"	: {
+     "time" : {
+       "best" : "sigma of n log n",
+       "average" : "theta of n log n",
+       "worst" : "o of n square"
+     },
+     "space" : {
+       "worst" : "o of log n"
+     }
+    },
+   "bubble Sort" :	{
+     "time" : {
+       "best" : "sigma of n log n",
+       "average" : "theta of n log n",
+       "worst" : "o of n square"
+     },
+     "space" : {
+       "worst" : "o of log n"
+     }
+    },
+   "insertion Sort" : {"time" : {
+     "best" : "sigma of n log n",
+     "average" : "theta of n log n",
+     "worst" : "o of n square"
+   },
+   "space" : {
+     "worst" : "o of log n"
+   }
+   },
+   "selection Sort"	: {
+     "time" : {
+       "best" : "sigma of n log n",
+       "average" : "theta of n log n",
+       "worst" : "o of n square"
+     },
+     "space" : {
+       "worst" : "o of log n"
+     }
+   },
+   "tree Sort" :	{
+     "time" : {
+       "best" : "sigma of n log n",
+       "average" : "theta of n log n",
+       "worst" : "o of n square"
+     },
+     "space" : {
+       "worst" : "o of log n"
+     }
+    },
+   "shell Sort" : 	{
+     "time" : {
+       "best" : "sigma of n log n",
+       "average" : "theta of n log n",
+       "worst" : "o of n square"
+     },
+     "space" : {
+       "worst" : "o of log n"
+     }
+    },
+   "bucket Sort" :	{
+     "time" : {
+       "best" : "sigma of n log n",
+       "average" : "theta of n log n",
+       "worst" : "o of n square"
+     },
+     "space" : {
+       "worst" : "o of log n"
+     }
+    },
+   "radix Sort"	: {
+     "time" : {
+       "best" : "sigma of n log n",
+       "average" : "theta of n log n",
+       "worst" : "o of n square"
+     },
+     "space" : {
+       "worst" : "o of log n"
+     }
+    },
+   "counting Sort" : {
+     "time" : {
+       "best" : "sigma of n log n",
+       "average" : "theta of n log n",
+       "worst" : "o of n square"
+     },
+     "space" : {
+       "worst" : "o of log n"
+     }
+    },
+   "cubesort" :	{
+     "time" : {
+       "best" : "sigma of n log n",
+       "average" : "theta of n log n",
+       "worst" : "o of n square"
+     },
+     "space" : {
+       "worst" : "o of log n"
+     }
+    }
+}
